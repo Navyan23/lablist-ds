@@ -51,7 +51,7 @@ int main()
  break;
  }
  }
- while(choice != 14);
+ while(choice != 4);
 }
 node *single_llist::create_node(int value)
 {
